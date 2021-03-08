@@ -10,3 +10,8 @@ display: none;
  #enunciat_2 {
    display: none;
  }
+
+ .botonsJPC {
+   display: flex;
+   justify-content: space-between;
+ }

@@ -1,0 +1,3 @@
+function mostraAlertaAH(){
+  alert("Alerta!");
+}
